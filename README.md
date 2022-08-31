@@ -16,7 +16,7 @@ This application needs inquirer, console.table, and MYSQL as dependencies. Put t
 This application can be used for non-developers to easily view and interact with information stored in databases.
 
 ## Demo
-(https://user-images.githubusercontent.com/107494937/187728778-41cae005-b3be-4a1a-a0a8-6565180386e0.gif)
+![ezgif com-gif-maker(5)](https://user-images.githubusercontent.com/107494937/187729488-9bdabfbc-5958-4c76-8834-34f9256851f0.gif)
 
 
 
